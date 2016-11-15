@@ -1,0 +1,34 @@
+{
+	"name": "Angular2Test",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies":
+	{
+		"@angular/common": "latest",
+		"@angular/compiler": "latest",
+		"@angular/core": "latest",
+		"@angular/core": "latest",
+		"@angular/forms": "latest",
+		"@angular/http": "latest",
+		"@angular/platform-browser": "latest",
+		"@angular/platform-browser-dynamic": "latest",
+		"@angular/router": "latest",
+		"@angular/upgrade": "latest",
+
+		"core-js": "latest",
+		"reflect-metadata": "latest",
+		"rxjs": "5.0.0-beta.12",
+		"zone.js": "latest"
+	},
+	"devDependencies":
+	{
+		"typescript": "latest",
+		"typings": "latest",
+
+		"webpack": "latest",
+		"awesome-typescript-loader": "latest",
+		"angular2-template-loader": "latest",
+		"raw-loader": "latest",
+		"copy-webpack-plugin": "latest"
+	}
+}

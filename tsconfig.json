@@ -1,0 +1,15 @@
+{
+	"compilerOptions":
+	{
+		"allowJs": false,
+		"forceConsistentCasingInFileNames": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"target": "es6",
+		"module": "commonjs"
+	},
+	"exclude":
+	[
+		"node_modules"
+	]
+}

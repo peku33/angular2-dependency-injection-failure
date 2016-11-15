@@ -1,0 +1,7 @@
+{
+	"globalDependencies":
+	{
+		"node": "registry:dt/node",
+		"zone.js": "registry:dt/zone.js"
+	}
+}
